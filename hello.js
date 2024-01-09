@@ -1,1 +1,1 @@
-const a = "generando bardo"
+const a = "generando conflictos"

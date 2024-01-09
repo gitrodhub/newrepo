@@ -1,1 +1,1 @@
-const a = "cambiando una variable en la rama main"
+const a = "generando bardo"
